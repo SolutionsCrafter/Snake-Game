@@ -1,3 +1,5 @@
+//frame
+
 import javax.swing.*;
 //test
 public class Game_Frame extends JFrame {
