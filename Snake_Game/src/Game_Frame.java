@@ -1,4 +1,3 @@
-//frame
 
 import javax.swing.*;
 //test
